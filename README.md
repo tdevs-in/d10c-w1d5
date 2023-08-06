@@ -1,5 +1,5 @@
 # Exercise Project
-## Sample project for Week 1, Day 4
+## Sample project for Week 1, Day 5
 
 This repository contains a sample repository for week 1 day 4 challenge.
 
