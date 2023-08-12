@@ -1,7 +1,7 @@
 # Exercise Project
 ## Sample project for Week 1, Day 5
 
-This repository contains a sample repository for week 1 day 4 challenge.
+This repository contains a sample repository for week 1 day 5 challenge.
 
 This project is empty and does not contain any code.
 
